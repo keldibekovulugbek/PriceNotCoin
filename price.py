@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, CallbackContext, JobQueue
 
 # Replace with your actual bot token
-TELEGRAM_BOT_TOKEN = '5389418617:AAFsl2Sw09XwY1fhf-1r87fPtVbBOauEmPg'
+TELEGRAM_BOT_TOKEN = 'Your bot token'
 
 # Dictionary to store the last known price of NOT coin
 last_prices = {
